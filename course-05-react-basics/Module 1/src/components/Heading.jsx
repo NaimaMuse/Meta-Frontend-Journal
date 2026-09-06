@@ -1,7 +1,24 @@
+import "../../src/App";
+
+
+import User from "./User";
+function Getname(){
+    return 'naima';
+}
 function Heading() {
+
+    
     return (
-        <h1>This is an h1 heading</h1>
+    <> 
+    <h1>iam {Getname()}</h1>
+</>
+       
     )
 }
+
+
+
+
+
 
 export default Heading;
