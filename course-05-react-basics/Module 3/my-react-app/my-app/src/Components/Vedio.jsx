@@ -1,4 +1,4 @@
-import ReactPlayer from 'react-player';
+import ReactPlayer from 'react-player'
 
 function Video() {
   const videoUrl = 'https://youtu.be/TWcSSDtSz0o'

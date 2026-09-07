@@ -5,7 +5,7 @@ function Home() {
       <h1 className="home-title">This is the Home Page</h1>
       <p className="home-text">
         Welcome to my React website!
-      <img src={Camera} alt="Hero" />
+  <img height={200} src={Camera} alt="Car image" />;
       </p>
     </div>
   )
