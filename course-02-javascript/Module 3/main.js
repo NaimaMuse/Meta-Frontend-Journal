@@ -36,6 +36,9 @@
 
 // // // console.log(localVar);
 
+// // // function scopeTest() {
+// // //         var localVar = 88;
+// // //     }
 
 
 // //     function meal(animal) {
@@ -50,6 +53,11 @@
 
 // //     console.log(dog.food);
 
+// //     var dog = {
+// //         food: 10
+// //     };
+// //     meal(dog);
+// //     meal(dog);
 
 //     function two() {
 //         return 2;
@@ -65,6 +73,12 @@
 
 //     console.log(calculate(two, one));
 
+//     function one() {
+//         return 1;
+//     }
 
-console.log(document.querySelectorAll('p'));
-console.log(document.getElementById('heading'))
+
+
+
+var veggies = ['parsley', 'carrot']
+console.log(veggies[2])
